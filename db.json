@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cool Plant",
+      "image": "https://cdn.shopify.com/s/files/1/2528/3612/products/4_CALATHEA_RATTLESNAKE_1_1004x1004.jpg?v=1627690935",
+      "price": "55",
+      "id": 8
+    },
+    {
+      "name": "Plant 5",
+      "image": "https://cdn.shopify.com/s/files/1/2528/3612/products/1-Calathea-Rattlesnake-4DETAIL_1004x1004.jpg?v=1627690935",
+      "price": "55",
+      "id": 9
+    },
+    {
+      "name": "Another Plant",
+      "image": "https://cdn.shopify.com/s/files/1/2528/3612/products/1-Calathea-Rattlesnake-6_1004x1004.jpg?v=1627690935",
+      "price": "22",
+      "id": 10
     }
   ]
 }
